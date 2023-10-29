@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.HoroscApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/primaryDark</item>
+    </style>
+
+    <style name="Theme.HoroscApp" parent="Base.Theme.HoroscApp" />
+
+
+    <!--Text-->
+    <style name="title">
+        <item name="android:textStyle">bold</item>
+        <item name="fontFamily">@font/dancing</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">@color/secondary</item>
+    </style>
+
+    <style name="body" parent="title">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+
+</resources>
