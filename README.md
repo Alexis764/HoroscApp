@@ -13,6 +13,6 @@
 </p>
 
 <p align="center">
-<img src="/previews/luck.gif" width="201"/>
-<img src="https://i.imgur.com/wLMVxWD.png" width="640">
+  <img src="https://i.imgur.com/wLMVxWD.png" width="640">
+  <img src="/previews/luck.gif" width="201"/>
 </p>
